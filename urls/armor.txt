@@ -1,0 +1,12 @@
+https://www.albiononline2d.com/en/item/cat/armor/subcat/cloth_armor
+https://www.albiononline2d.com/en/item/cat/armor/subcat/cloth_helmet
+https://www.albiononline2d.com/en/item/cat/armor/subcat/cloth_shoes
+https://www.albiononline2d.com/en/item/cat/armor/subcat/leather_armor
+https://www.albiononline2d.com/en/item/cat/armor/subcat/leather_helmet
+https://www.albiononline2d.com/en/item/cat/armor/subcat/leather_shoes
+https://www.albiononline2d.com/en/item/cat/armor/subcat/plate_armor
+https://www.albiononline2d.com/en/item/cat/armor/subcat/plate_helmet
+https://www.albiononline2d.com/en/item/cat/armor/subcat/plate_shoes
+https://www.albiononline2d.com/en/item/cat/armor/subcat/unique_armor
+https://www.albiononline2d.com/en/item/cat/armor/subcat/unique_helmet
+https://www.albiononline2d.com/en/item/cat/armor/subcat/unique_shoes

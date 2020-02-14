@@ -1,0 +1,12 @@
+https://www.albiononline2d.com/en/item/cat/resources/subcat/cloth
+https://www.albiononline2d.com/en/item/cat/resources/subcat/fiber
+https://www.albiononline2d.com/en/item/cat/resources/subcat/hide
+https://www.albiononline2d.com/en/item/cat/resources/subcat/leather
+https://www.albiononline2d.com/en/item/cat/resources/subcat/metalbar
+https://www.albiononline2d.com/en/item/cat/resources/subcat/ore
+https://www.albiononline2d.com/en/item/cat/resources/subcat/other
+https://www.albiononline2d.com/en/item/cat/resources/subcat/planks
+https://www.albiononline2d.com/en/item/cat/resources/subcat/rock
+https://www.albiononline2d.com/en/item/cat/resources/subcat/stoneblock
+https://www.albiononline2d.com/en/item/cat/resources/subcat/wood
+

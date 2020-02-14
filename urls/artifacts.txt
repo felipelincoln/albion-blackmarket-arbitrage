@@ -1,0 +1,6 @@
+https://www.albiononline2d.com/en/item/cat/artefacts/subcat/armor_artefact
+https://www.albiononline2d.com/en/item/cat/artefacts/subcat/magic_artefact
+https://www.albiononline2d.com/en/item/cat/artefacts/subcat/melee_artefact
+https://www.albiononline2d.com/en/item/cat/artefacts/subcat/offhand_artefact
+https://www.albiononline2d.com/en/item/cat/artefacts/subcat/ranged_artefact
+

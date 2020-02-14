@@ -1,0 +1,9 @@
+https://www.albiononline2d.com/en/item/cat/consumables/subcat/cooked
+https://www.albiononline2d.com/en/item/cat/consumables/subcat/fish
+https://www.albiononline2d.com/en/item/cat/consumables/subcat/fishingbait
+https://www.albiononline2d.com/en/item/cat/consumables/subcat/maps
+https://www.albiononline2d.com/en/item/cat/consumables/subcat/other
+https://www.albiononline2d.com/en/item/cat/consumables/subcat/potion
+https://www.albiononline2d.com/en/item/cat/consumables/subcat/skillbook
+https://www.albiononline2d.com/en/item/cat/consumables/subcat/vanity
+

@@ -1,0 +1,8 @@
+https://www.albiononline2d.com/en/item/cat/melee/subcat/axe
+https://www.albiononline2d.com/en/item/cat/melee/subcat/dagger
+https://www.albiononline2d.com/en/item/cat/melee/subcat/hammer
+https://www.albiononline2d.com/en/item/cat/melee/subcat/mace
+https://www.albiononline2d.com/en/item/cat/melee/subcat/quarterstaff
+https://www.albiononline2d.com/en/item/cat/melee/subcat/spear
+https://www.albiononline2d.com/en/item/cat/melee/subcat/sword
+
