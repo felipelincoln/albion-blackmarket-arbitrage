@@ -1,4 +1,4 @@
-# python3 py/retriever.py items/<file> <city1, [city2, ...]>
+# python3 py/retriever.py items/<file> <city>
 import requests
 import sys
 
@@ -7,7 +7,7 @@ tag = '?locations='
 
 items = open(sys.argv[1], 'r').read().replace('\n', ',')[:-1]
 
-response_caerleon = requests.get(api + items + tag + 'caerleon').json()
+response_caerleon = requests.get(api + items + tag + sys.argv[2]).json()
 response_blackmarket = requests.get(api + items + tag + 'blackmarket').json()
 val = {}
 
@@ -20,9 +20,7 @@ for each in response_blackmarket:
 	if k in val.keys(): 
 		val[k][1] = each['buy_price_max']
 
-#print(sorted(val.items(), key=lambda x: -x[1][1]+x[1][0]))
-
-
-for each in sorted(val.items(), key=lambda x: -x[1][1]+x[1][0]):
-	if each[1][1] > each[1][0]:
-		print(each[0], each[1])
+tax = 0.06
+for each in sorted(val.items(), key=lambda x: -x[1][1]*(1-tax)+x[1][0]):
+	if each[1][1]*(1-tax) > each[1][0]:
+		print(each[0], each[1], round(each[1][1]*(1-tax)-each[1][0]))
