@@ -1,7 +1,9 @@
 # albion-blackmarket-comparison
-Compares prices from city's market to the Black Market
+Compares prices from city's market to the Black Market.  
 
-Download this repository, `cd` into it and type:
+**Important note**: the API's refresh rate isn't real time, so there may be some offer showed here that is currently finished. Always check before doing anything!
+
+Download this repository, `cd` into it and run:
 
 ``
 python3 py/retriever.py items/<file> <city>
@@ -23,7 +25,7 @@ gathering_gear1.txt  melee2.txt
 the result will be in the following format:
 
 ``
-ITEM_NAME	[CAERLEON_SELL_PRICE, BLACKMARKET_BUY_PRICE] PROFIT_VALUE_WITH_6%_TAX
+ITEM_NAME	[CITY_SELL_PRICE, BLACKMARKET_BUY_PRICE] PROFIT_VALUE_WITH_6%_TAX
 ``
 
 We are using the API from www.albion-online-data.com.
