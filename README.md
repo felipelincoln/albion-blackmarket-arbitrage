@@ -1,4 +1,6 @@
 # albion-blackmarket-comparison
+[![](https://img.shields.io/github/downloads/felipelincoln/albion-blackmarket-comparison/total)](https://github.com/felipelincoln/albion-blackmarket-comparison/releases)
+
 Compares prices from city's market to the Black Market.  
 
 **Important note**: the API's refresh rate isn't real time, so there may be some offer showed here that is currently finished. Always check before doing anything!
