@@ -1,9 +1,14 @@
 # albion-blackmarket-comparison
 [![](https://img.shields.io/github/downloads/felipelincoln/albion-blackmarket-comparison/total)](https://github.com/felipelincoln/albion-blackmarket-comparison/releases)
 
-Compares prices from city's market to the Black Market.  
+Compares item prices from Royal Cities' market to the Caerleon Black Market.
 
-**Important note**: the API's refresh rate isn't real time, so there may be some offer showed here that is currently finished. Always check before doing anything!
+![](https://raw.githubusercontent.com/felipelincoln/albion-blackmarket-comparison/master/screenshot.png)
+
+## Legal issues
+Since it is mainly the presentation of the data obtained from a legal API, [albion-online-data](https://www.albion-online-data.com/), this can't be ilegal.
+
+## Installing
 
 Download the [latest release](https://github.com/felipelincoln/albion-blackmarket-comparison/releases), unzip and run:
 
@@ -27,7 +32,12 @@ gathering_gear1.txt  melee2.txt
 the result will be in the following format:
 
 ``
-ITEM_NAME	[CITY_SELL_PRICE, BLACKMARKET_BUY_PRICE] PROFIT_VALUE_WITH_6%_TAX
+ITEM_ID#ITEM_QUALITY	[CITY_SELL_PRICE, BLACKMARKET_BUY_PRICE] PROFIT_VALUE_WITH_6%_TAX
 ``
 
-We are using the API from www.albion-online-data.com.
+**Importante note**: the use of this python code won't give you up to date prices.
+
+## Real-time prices
+In order to get market prices updated you have to first download the [albiondata-client](https://github.com/BroderickHyman/albiondata-client/releases) and keep it running. Then visit the market, the items in the current market tab will be automaticaly updated to the API.
+
+Have fun and good tradings! :moneybag:
