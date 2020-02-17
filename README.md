@@ -5,7 +5,7 @@ Compares prices from city's market to the Black Market.
 
 **Important note**: the API's refresh rate isn't real time, so there may be some offer showed here that is currently finished. Always check before doing anything!
 
-Download this repository, `cd` into it and run:
+Download the [latest release](https://github.com/felipelincoln/albion-blackmarket-comparison/releases), unzip and run:
 
 ``
 python3 py/retriever.py items/<file> <city>
