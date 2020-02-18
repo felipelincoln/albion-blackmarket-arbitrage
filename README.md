@@ -40,4 +40,5 @@ ITEM_ID#ITEM_QUALITY	[CITY_SELL_PRICE, BLACKMARKET_BUY_PRICE] PROFIT_VALUE_WITH_
 ## Real-time prices
 In order to get market prices updated you have to first download the [albiondata-client](https://github.com/BroderickHyman/albiondata-client/releases) and keep it running. Then visit the market, the items in the current market tab will be automaticaly updated to the API.
 
-Have fun and good tradings! :moneybag:
+Have fun and good tradings! :moneybag:  
+And if you have any questions you can call me ingame, my nickname is VilaoDaFieldsRJ.
