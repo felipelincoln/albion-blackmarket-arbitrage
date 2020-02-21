@@ -21,6 +21,8 @@ for each in response_blackmarket:
 		val[k][1] = each['buy_price_max']
 
 tax = 0.06
-for each in sorted(val.items(), key=lambda x: -x[1][1]*(1-tax)+x[1][0]):
+i = 0
+for each in sorted(val.items(), key=lambda x: (x[0], -x[1][1]*(1-tax)+x[1][0])):
 	if each[1][1]*(1-tax) > each[1][0]:
-		print(each[0], each[1], round(each[1][1]*(1-tax)-each[1][0]))
+		print(f'[{i}]', each[0], each[1], round(each[1][1]*(1-tax)-each[1][0]))
+		i += 1
