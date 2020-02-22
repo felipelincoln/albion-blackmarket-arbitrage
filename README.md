@@ -35,7 +35,7 @@ ITEM_ID#ITEM_QUALITY	[CITY_SELL_PRICE, BLACKMARKET_BUY_PRICE] PROFIT_VALUE_WITH_
 ``
 
 If you are not sure what items is T8_HEAD_CLOTH_SET3@3#2, use the official API to take a look:
-https://gameinfo.albiononline.com/api/gameinfo/items/T8_HEAD_CLOTH_SET3@3 (without the #ITEM_QUALITY)
+https://gameinfo.albiononline.com/api/gameinfo/items/T8_HEAD_CLOTH_SET3@3
 
 **Importante note**: the use of this python code won't give you up to date prices.
 
