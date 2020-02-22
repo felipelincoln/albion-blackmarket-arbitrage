@@ -1,7 +1,7 @@
 # albion-blackmarket-comparison
 [![](https://img.shields.io/github/downloads/felipelincoln/albion-blackmarket-comparison/total)](https://github.com/felipelincoln/albion-blackmarket-comparison/releases)
 
-Compares item prices from Royal Cities' market to the Caerleon Black Market.
+Compares cities market prices to the black market in Albion Online.
 
 ![](https://raw.githubusercontent.com/felipelincoln/albion-blackmarket-comparison/master/screenshot.png)
 
@@ -10,8 +10,11 @@ Since it is mainly the presentation of the data obtained from a legal API, [albi
 
 ## Installing
 
-Download the [latest release](https://github.com/felipelincoln/albion-blackmarket-comparison/releases), unzip and run:
+Download the [latest release](https://github.com/felipelincoln/albion-blackmarket-comparison/releases) and unzip it.
 
+## Running
+
+Once you are in the blackmarket-comparison folder, run:
 ``
 python3 py/retriever.py items/<file> <city>
 ``
@@ -19,14 +22,10 @@ python3 py/retriever.py items/<file> <city>
 chosing the file you want from the following:
 
 ```
-accessories.txt      gathering_gear2.txt  melee3.txt
-armor1.txt           gathering_gear3.txt  melee4.txt
-armor2.txt           magic1.txt           melee5.txt
-armor3.txt           magic2.txt           off-hand1.txt
-armor4.txt           magic3.txt           off-hand2.txt
-armor5.txt           magic4.txt           ranged1.txt
-armor6.txt           melee1.txt           ranged2.txt
-gathering_gear1.txt  melee2.txt
+accessories.txt  armor4.txt  magic2.txt  melee2.txt  off-hand1.txt
+armor1.txt       armor5.txt  magic3.txt  melee3.txt  off-hand2.txt
+armor2.txt       armor6.txt  magic4.txt  melee4.txt  ranged1.txt
+armor3.txt       magic1.txt  melee1.txt  melee5.txt  ranged2.txt
 ```
 
 the result will be in the following format:
@@ -34,6 +33,9 @@ the result will be in the following format:
 ``
 ITEM_ID#ITEM_QUALITY	[CITY_SELL_PRICE, BLACKMARKET_BUY_PRICE] PROFIT_VALUE_WITH_6%_TAX
 ``
+
+If you are not sure what items is T8_HEAD_CLOTH_SET3@3#2, use the official API to take a look:
+https://gameinfo.albiononline.com/api/gameinfo/items/T8_HEAD_CLOTH_SET3@3 (without the #ITEM_QUALITY)
 
 **Importante note**: the use of this python code won't give you up to date prices.
 
