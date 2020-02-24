@@ -37,7 +37,7 @@ tax = 0.06
 
 def cmd_search():
 	city = var_city.get() 
-	item_file = '../items/' + var_file.get()
+	item_file = 'items/' + var_file.get()
 	item_query = open(item_file, 'r').read().replace('\n', ',')[:-1]
 	
 	response_city = requests.get(data_route + item_query + '?locations=' + city).json()
