@@ -2,7 +2,7 @@ import requests
 from tkinter import *
 
 client_version = 0.3
-client_title = 'albion-black-market-comparison Client v' + str(client_version)
+client_title = 'albion-blackmarket-comparison Client v' + str(client_version)
 
 city_list = ['Lymhurst', 
 			 'Bridgewatch',
