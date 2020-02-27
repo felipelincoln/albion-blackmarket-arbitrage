@@ -1,7 +1,8 @@
 # albion-blackmarket-comparison
 [![](https://img.shields.io/github/downloads/felipelincoln/albion-blackmarket-comparison/total)](https://github.com/felipelincoln/albion-blackmarket-comparison/releases)
 
-Compares cities market prices to the black market in Albion Online.
+Compares cities market prices to the black market in Albion Online.  
+Albion Online forum thread: [albionbmc - albion blackmarket comparison (for windows and ubuntu)](https://forum.albiononline.com/index.php/Thread/124763-albionbmc-albion-blackmarket-comparison-for-windows-and-ubuntu/)
 
 ![](https://raw.githubusercontent.com/felipelincoln/albion-blackmarket-comparison/master/screenshot.png)
 
