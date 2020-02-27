@@ -4,7 +4,7 @@
 Compares cities market prices to the black market in Albion Online.  
 Albion Online forum thread: [\[albion-blackmarket-tool\] a tool for comparing local market prices to the black market](https://forum.albiononline.com/index.php/Thread/124763-albion-blackmarket-tool-a-tool-for-comparing-local-market-prices-to-the-black-ma/)
 
-![](https://raw.githubusercontent.com/felipelincoln/albion-blackmarket-tool/master/screenshot.png)
+![](https://raw.githubusercontent.com/felipelincoln/albion-blackmarket-tool/master/img/screenshot.png)
 
 ## Legal issues
 Since it is mainly the presentation of the data obtained from a legal API, [albion-online-data](https://www.albion-online-data.com/), this can't be ilegal.

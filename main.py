@@ -2,7 +2,7 @@ import requests
 from tkinter import *
 
 client_version = 0.3
-client_title = 'albion-blackmarket-comparison Client v' + str(client_version)
+client_title = 'albion-blackmarket-tool v' + str(client_version)
 
 city_list = ['Lymhurst', 
 			 'Bridgewatch',
@@ -92,7 +92,7 @@ def cmd_search():
 		blackmarket = item[1][1]
 		profit = item[2]
 
-		img = PhotoImage(file='img_lowquality/'+item_id+'.png')
+		img = PhotoImage(file='img/'+item_id+'.png')
 		label = Label(frame, image=img)
 		label.image = img
 		label.grid(row=3+i, column=0, sticky=W)
