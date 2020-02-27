@@ -10,7 +10,7 @@ Since it is mainly the presentation of the data obtained from a legal API, [albi
 
 ## Running
 
-**Download the [latest release](https://github.com/felipelincoln/albion-blackmarket-comparison/releases)**, unzip it and run the executable file.  
+**Download the [latest release](https://github.com/felipelincoln/albion-blackmarket-comparison/releases/latest)**, unzip it and run the executable file.  
 The city you pick will be from where you are going to buy the items straight from the sell orders. You can also choose what kind of items you want to trade.
 A little while after you click the search button a list with the following layout will brings up to you:
 
