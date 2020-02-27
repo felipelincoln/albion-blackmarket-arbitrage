@@ -1,17 +1,17 @@
-# albion-blackmarket-comparison
-[![](https://img.shields.io/github/downloads/felipelincoln/albion-blackmarket-comparison/total)](https://github.com/felipelincoln/albion-blackmarket-comparison/releases)
+# albion-blackmarket-tool
+[![](https://img.shields.io/github/downloads/felipelincoln/albion-blackmarket-tool/total)](https://github.com/felipelincoln/albion-blackmarket-comparison/releases)
 
 Compares cities market prices to the black market in Albion Online.  
-Albion Online forum thread: [albionbmc - albion blackmarket comparison (for windows and ubuntu)](https://forum.albiononline.com/index.php/Thread/124763-albionbmc-albion-blackmarket-comparison-for-windows-and-ubuntu/)
+Albion Online forum thread: [\[albion-blackmarket-tool\] a tool for comparing local market prices to the black market](https://forum.albiononline.com/index.php/Thread/124763-albion-blackmarket-tool-a-tool-for-comparing-local-market-prices-to-the-black-ma/)
 
-![](https://raw.githubusercontent.com/felipelincoln/albion-blackmarket-comparison/master/screenshot.png)
+![](https://raw.githubusercontent.com/felipelincoln/albion-blackmarket-tool/master/screenshot.png)
 
 ## Legal issues
 Since it is mainly the presentation of the data obtained from a legal API, [albion-online-data](https://www.albion-online-data.com/), this can't be ilegal.
 
 ## Running
 
-**Download the [latest release](https://github.com/felipelincoln/albion-blackmarket-comparison/releases/latest)**, unzip it and run the executable file.  
+**Download the [latest release](https://github.com/felipelincoln/albion-blackmarket-tool/releases/latest)**, unzip it and run the executable file.  
 The city you pick will be from where you are going to buy the items straight from the sell orders. You can also choose what kind of items you want to trade.
 A little while after you click the search button a list with the following layout will brings up to you:
 
