@@ -2,7 +2,7 @@
 [![build](https://github.com/felipelincoln/albion-blackmarket-tool/workflows/build/badge.svg)](https://github.com/felipelincoln/albion-blackmarket-tool/actions?query=workflow%3Abuild)
 [![](https://img.shields.io/github/downloads/felipelincoln/albion-blackmarket-tool/total)](https://github.com/felipelincoln/albion-blackmarket-tool/releases)
 
-Compares cities market prices to the black market in Albion Online.  
+A tool for comparing local market prices to the black market in Albion Online. 
 
 ![](https://raw.githubusercontent.com/felipelincoln/albion-blackmarket-tool/master/img/screenshot.png)
 
@@ -26,6 +26,6 @@ In order to get market prices updated you have to first download the [albiondata
 
 
 ## Discusssion
-you can find discussions for this program at:
+You can find discussions for this program at:
 * [reddit.com/r/albiononline](https://www.reddit.com/r/albiononline/comments/fcxg0t/albionblackmarkettool_a_tool_for_comparing_local/)
 * [forum.albiononline.com](https://forum.albiononline.com/index.php/Thread/124763-albion-blackmarket-tool-a-tool-for-comparing-local-market-prices-to-the-black-ma/)
