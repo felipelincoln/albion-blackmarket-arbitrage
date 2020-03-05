@@ -1,6 +1,7 @@
 # albion-blackmarket-tool
+[![version](https://img.shields.io/github/v/release/felipelincoln/albion-blackmarket-tool?label=version)](https://github.com/felipelincoln/albion-blackmarket-tool/releases/latest)
 [![build](https://github.com/felipelincoln/albion-blackmarket-tool/workflows/build/badge.svg)](https://github.com/felipelincoln/albion-blackmarket-tool/actions?query=workflow%3Abuild)
-[![](https://img.shields.io/github/downloads/felipelincoln/albion-blackmarket-tool/total)](https://github.com/felipelincoln/albion-blackmarket-tool/releases)
+[![downloads](https://img.shields.io/github/downloads/felipelincoln/albion-blackmarket-tool/total)](https://github.com/felipelincoln/albion-blackmarket-tool/releases)
 
 A tool for comparing local market prices to the black market in Albion Online. 
 
