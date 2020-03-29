@@ -20,7 +20,7 @@ A little while after you click the search button a list with the following layou
 [ITEM_ID#ITEM_QUALITY]  [CITY_SELL_PRICE]  [BLACKMARKET_BUY_PRICE]   [PROFIT_VALUE_WITH_6%_TAX]
 ``
 
-**Importante note**: the use of this program code won't give you up to date prices.
+**Importante note**: the use of this program won't give you up to date prices.
 
 ## Real-time prices
 In order to get market prices updated you have to first download the [albiondata-client](https://github.com/BroderickHyman/albiondata-client/releases) and keep it running. Then visit the market, the items in the current market tab will be automaticaly updated to the API.
