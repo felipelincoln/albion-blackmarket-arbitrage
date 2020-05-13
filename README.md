@@ -10,6 +10,7 @@ A tool for comparing local market prices to the black market in Albion Online.
 Since it is mainly the presentation of the data obtained from a legal API, [albion-online-data](https://www.albion-online-data.com/), this can't be ilegal.
 
 ## Running
+*Mac users may refer to this issue: [#5](https://github.com/felipelincoln/albion-blackmarket-tool/issues/5)*
 
 **Download the [latest release](https://github.com/felipelincoln/albion-blackmarket-tool/releases/latest)**, unzip it and run the executable file.  
 The city you pick will be from where you are going to buy the items straight from the sell orders. You can also choose what kind of items you want to trade.
