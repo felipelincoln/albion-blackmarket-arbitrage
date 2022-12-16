@@ -1,4 +1,4 @@
-# albion-blackmarket-tool
+# albion-blackmarket-arbitrage
 [![release](https://img.shields.io/github/v/release/felipelincoln/albion-blackmarket-tool)](https://github.com/felipelincoln/albion-blackmarket-tool/releases/latest)
 [![downloads](https://img.shields.io/github/downloads/felipelincoln/albion-blackmarket-tool/total)](https://github.com/felipelincoln/albion-blackmarket-tool/releases)
  
